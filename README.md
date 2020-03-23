@@ -6,7 +6,7 @@
 
 [原网站](https://www.topology.com.tw/)非会员无直接渠道获取对应页面的图表，为了方便用户，将网站上的图表数据进行了整理。
 
-**:warning: 声明：** 本仓库仅做内容整理，以下所有皆为公开可获得的信息。本仓库不保存[TRI 拓墣產業研究院 | Topology Research Institute](https://www.topology.com.tw/)上的任何图片或文件，仅提供可从网站上获得的公开的超链接。
+**:warning: 声明：** 本仓库仅做内容整理，以下所有皆为公开可获得的信息。本仓库不保存 [TRI 拓墣產業研究院 | Topology Research Institute](https://www.topology.com.tw/) 上的任何图片或文件，仅提供可从网站上获得的公开的超链接。
 
 由于数据文件量过多，根据 ID 范围分为多个文件可供查询和下载：
  
@@ -22,7 +22,7 @@
  | [35000 - 35999](https://github.com/Sec-ant/Topology-Archive/blob/master/list/35000%20-%2035999.md) | [36000 - 36999](https://github.com/Sec-ant/Topology-Archive/blob/master/list/36000%20-%2036999.md) | [37000 - 37999](https://github.com/Sec-ant/Topology-Archive/blob/master/list/37000%20-%2037999.md) | [38000 - 38999](https://github.com/Sec-ant/Topology-Archive/blob/master/list/38000%20-%2038999.md) | [39000 - 39999](https://github.com/Sec-ant/Topology-Archive/blob/master/list/39000%20-%2039999.md) | 
  | [40000 - 40999](https://github.com/Sec-ant/Topology-Archive/blob/master/list/40000%20-%2040999.md) | [41000 - 41999](https://github.com/Sec-ant/Topology-Archive/blob/master/list/41000%20-%2041999.md) | [42000 - 42999](https://github.com/Sec-ant/Topology-Archive/blob/master/list/42000%20-%2042999.md) | [43000 - 43890](https://github.com/Sec-ant/Topology-Archive/blob/master/list/43000%20-%2043890.md) |
 
- 总表（0 - 43890）：[list.md](https://github.com/Sec-ant/Topology-Archive/blob/master/list/list.md)
+ 总表（0 - 43890）：[Markdown](https://github.com/Sec-ant/Topology-Archive/blob/master/list/list.md) | [Json](https://github.com/Sec-ant/Topology-Archive/blob/master/list/list.json)
 
 ## 最新数据 (更新日期请见 commit 日期)
 
